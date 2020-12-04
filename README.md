@@ -2,4 +2,4 @@
 HTML, CSS, Javascript, Jquery.
 
 Click =>
-https://nervous-panini-206542.netlify.app
+https://silly-sammet-b65354.netlify.app
